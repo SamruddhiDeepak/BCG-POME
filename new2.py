@@ -12,7 +12,7 @@ import json
 # =============================
 # OPENROUTER CONFIG (NEW)
 # =============================
-OPENROUTER_API_KEY = "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 "
+OPENROUTER_API_KEY = "***"
 OPENROUTER_MODEL = "openai/gpt-4o-mini"
 
 OPENROUTER_HEADERS = {
