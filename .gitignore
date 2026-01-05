@@ -1,0 +1,34 @@
+# --------------------
+# Environment variables
+# --------------------
+.env
+.env.*
+!.env.example
+
+# --------------------
+# Python virtual environment
+# --------------------
+venv/
+.venv/
+env/
+ENV/
+
+# --------------------
+# Python cache files
+# --------------------
+__pycache__/
+*.py[cod]
+
+# --------------------
+# OS / Editor files
+# --------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --------------------
+# Logs & temp files
+# --------------------
+*.log
+*.tmp
